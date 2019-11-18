@@ -110,5 +110,6 @@ dmypy.json
 model/*.h5
 model/*.cfg
 model/*.weights
+trained/
 
 # End of https://www.gitignore.io/api/python
